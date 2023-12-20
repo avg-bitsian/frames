@@ -1,23 +1,23 @@
 # Site settings
-title: PHOTORAMA
-email: ""
-description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
-discus_shortname: ""
+title: shots
+# email: "priyanshgarg@outlook.com"
+description: "shots"
+url: "https://avg-bitsian.github.io"
+baseurl: "/frames"
+# facebook_username: ""
+# twitter_username: ""
+# instagram_username: ""
+github_username:  "avg-bitsian"
+# deviantart_username: ""
+# flickr_username: ""
+# discus_shortname: ""
 share: true
 
 # Owner/author information
 owner:
-  name:   photorama
-  avatar: avatar.png
-  favicon: favicon.ico
+  name:   Priyansh
+  # avatar: avatar.png
+  # favicon: favicon.ico
   info: photography website template
 
 # Settings for comments helper
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://avg-bitsian.github.io/frames/gallery/"  
+  # - JOURNAL: "https://avg-bitsian.github.io/frames/journal/"
+  # - ABOUT: "https://avg-bitsian.github.io/frames/about/"
 
 # All translation keys
 translations:
